@@ -28,7 +28,9 @@ Este projeto foi criado com o intuito de colocar o meu aprendizado em pratica e 
 - CSS3
 
 # Autor do Projeto
- Getúlio Ramos - https://github.com/getulioramos
+ Getúlio Ramos 
+ - https://github.com/getulioramos
+ - https://www.linkedin.com/in/get%C3%BAlio-ramos-84a0baa0/
  
 # Conclusão
 Neste projeto consigo mostrar o meu conhecimento e o meu prendizado em projetos como o do próprio portfolio até então
