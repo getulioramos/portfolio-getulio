@@ -1,0 +1,85 @@
+.certificados-principal{
+	width: 100%;
+	background: #6959CD;
+	padding: 2em;
+	text-align: center;
+	margin: 0 auto;
+}
+
+.certificados {
+	color: white;
+	width:940px;
+	padding: 2em;
+	text-align: center;
+	margin: 0 auto;
+}
+
+.certificados-logo {
+	padding: 1em;
+	transition: 1s all;
+	cursor: pointer;
+	border: 2px;
+	border-radius: 40px;
+}
+
+.certificados-logo:hover {
+	transform: scale(1.2);
+}
+
+.titulo-seçao {
+	font-size: 2em;
+	width: auto;
+	font-weight: bold;
+	text-align: center;
+	font-style: italic;
+	padding: 2em;
+}
+
+.botao-topo2 {
+	background-color: #8c82ca;
+	border: none;
+	border-radius: 10px;
+	color: white;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	cursor: pointer;
+	-webkit-transition-duration: 0.4s;
+	transition-duration: 0.4s;
+}
+
+.botao-topo:hover {
+	box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+	transform: scale(1.2);
+}
+
+
+@media screen and (max-width: 480px) {
+    .certificados-principal {
+        width: 65em;
+        height: auto;
+        display: inline-block;
+        position: static;
+        text-align: center;
+        padding: 2em;
+    }
+    
+    .certificados-logo {
+        width: 40%;
+        padding: 20px;
+       
+    }
+
+	.titulo-seçao {
+		font-size: 4em;
+		width: auto;
+		font-weight: bold;
+		text-align: center;
+		font-style: italic;
+		padding: 2em;
+	}
+}
+

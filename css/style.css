@@ -1,0 +1,163 @@
+body {
+	font-family: 'Montserrat', sans-serif;
+}
+
+.cabeçalho-principal { 
+	width: 100%;
+	height: 300px;
+	background: linear-gradient(to bottom, #6959CD 85%, #FFFFFF 85% 90%, #000000 90%);
+	padding: 2em;
+}
+
+.cabeçalho {
+	position: relative;
+	width: 940px;
+	margin: 0 auto;
+}
+
+#logo {
+	position: absolute;
+	/* left: -250px; */
+	text-align: left;
+	left: -150px;
+	width: auto;
+	padding: 2em;
+}
+
+.cabeçalho-menu, nav {
+	position: absolute;
+	top: 110px;
+	right: 0;
+}
+
+nav li{
+	display: inline;
+	margin: 0 0 0 15px;
+}
+
+nav a {
+	text-transform: uppercase;
+	color: white;
+	font-weight: bold;
+	font-size: 22px;
+	text-decoration: none;
+	}
+
+nav a:hover {
+	color: black;
+	text-decoration: underline;
+}
+
+main {
+
+}
+
+/*Título das Sections*/
+.titulo-seçao {
+	font-size: 2em;
+	width: auto;
+	font-weight: bold;
+	text-align: center;
+	font-style: italic;
+	padding: 2em;
+}
+
+/* Parágrafo do sobre mim*/
+p {
+	width: auto;
+	font-size: 2em;
+	text-align: center;
+	line-height: 1.5;
+}
+
+
+* Título dos Projetos
+h3 {
+	width: 300px
+	text-align: center;
+}
+
+
+footer {
+	color: #FFFFFF;
+	width: 100%;
+	background: black;
+	padding: 2em;
+	text-align: center;
+	margin: 0 auto;
+}
+
+.ramos-rodape {
+	width: auto;
+	height: 200px;
+}
+
+
+
+
+@media screen and (max-width: 480px) {
+	
+	.cabeçalho-principal { 
+		width: 65em;
+		height: 25em;
+		background: linear-gradient(to bottom, #6959CD 85%, #FFFFFF 85% 90%, #000000 90%);
+		padding: auto;
+	}
+	
+	.cabeçalho {
+		position: static;
+		width: auto;
+		margin: 0 auto;
+	}
+	
+	
+
+	#logo {
+		text-align: center;
+		position: static;
+		center : 0;
+		display: block;
+	}
+
+
+	.cabeçalho-menu, nav {
+		text-align: center;
+		position: static;
+		width: auto;
+		display: inline;
+		padding: 5em;
+		top: 5em;
+	}
+
+	.titulo-seçao {
+		font-size: 4em;
+		width: auto;
+		font-weight: bold;
+		text-align: center;
+		font-style: italic;
+		padding: 2em;
+	}
+
+		
+	#perfil-p  {
+		width: auto;
+		font-size: 12em;
+		text-align: center;
+		line-height: 1.5;
+	}
+
+	footer {
+		width: 65em;
+		background: black;
+		padding: 2em;
+		text-align: center;
+		margin: 0 auto;
+	}
+
+	.ramos-rodape {
+		width: auto;
+	}
+
+}
+
+
