@@ -24,11 +24,14 @@ Este projeto foi criado com o intuito de colocar o meu aprendizado em pratica e 
 
 
 # Tecnologias Utilizadas
-- HTML5
-- CSS3
 
+<img align="center" alt="Ge-Js" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" /><img align="center" alt="Ge-Js" height="70" width="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+
+##
+          
 # Autor do Projeto
- Getúlio Ramos 
+ 
+ ### Getúlio Ramos 
  - https://github.com/getulioramos
  - https://www.linkedin.com/in/get%C3%BAlio-ramos-84a0baa0/
  
