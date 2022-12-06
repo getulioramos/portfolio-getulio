@@ -18,9 +18,9 @@ Este projeto foi criado com o intuito de colocar o meu aprendizado em pratica e 
 ![loading-gif](https://user-images.githubusercontent.com/118116539/205693757-4f114458-0cbb-4851-990e-f2598d6c00e8.gif)
 
 # Acesso ao Projeto
-- https://getulioramos.github.io/PortfolioGetulioRamos/
+- https://getulioramos.github.io/portfolio-getulio/
 
-- https://portfolio-getulio-ramos.vercel.app/
+- https://portfolio-getulio.vercel.app/
 
 
 # Tecnologias Utilizadas
